@@ -1,5 +1,5 @@
 const assert = require('chai').assert;
-const queue = require('../Queue');
+const queue = require('./Queue');
 
 describe('Queue', function () {
     describe('enqueue()', function () {
